@@ -4,7 +4,7 @@ import os
 
 """
 1 - Instructions:
-To start the program please run: python dataset2.py --file "data_example.csv"
+To start the program please run: python dataset.py --file "data_example.csv"
 
 2 - Project Structure:
     dataset.py - Main file for this project where you find all functions.
